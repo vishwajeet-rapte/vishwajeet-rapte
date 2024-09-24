@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishwajeet-rapte
+- 👋 Hi, I’m @vishwajeet-rapte(Coding)
 - 👀 I’m interested in Testing and Coding
 - 🌱 I’m currently learning Python and Automation
 - 💞️ I’m looking to collaborate on new projects
